@@ -6,7 +6,7 @@ A production-grade data pipeline built on AWS that ingests, processes, validates
 
 ## Architecture Overview
 
-![YouTube Trending Data Pipeline](architecturediagram.png)
+![YouTube Trending Data Pipeline](architecture-diagram.png)
 
 The pipeline is organized into six functional layers:
 
