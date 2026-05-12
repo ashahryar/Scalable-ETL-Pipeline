@@ -34,7 +34,7 @@
 			"Sid": "SNSAccess",
 			"Effect": "Allow",
 			"Action": "sns:Publish",
-			"Resource": "arn:aws:sns:us-east-1:092042970260:youtube-data-pipeline-alert:60c95bec-7675-48ee-a573-7170766c8fea*"
+			"Resource": "arn:aws:sns:us-east-1:<your-account-id>:youtube-data-pipeline-alert:<your id>*"
 		},
 		{
 			"Sid": "AthenaAccess",
