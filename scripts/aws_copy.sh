@@ -1,6 +1,6 @@
 #🇨🇦 CA
 aws s3 cp data/CAvideos.csv s3://yt-data-pipeline-bronze-layer/youtube/raw_statistics/region=ca/
-aws s3 cp data/CA_category_id.json s3//s3://yt-data-pipeline-bronze-layer/youtube/raw_statistics_ref_data/region=ca/
+aws s3 cp data/CA_category_id.json s3://yt-data-pipeline-bronze-layer/youtube/raw_statistics_ref_data/region=ca/
 
 #🇩🇪 DE
 aws s3 cp data/DEvideos.csv s3://yt-data-pipeline-bronze-layer/youtube/raw_statistics/region=de/
